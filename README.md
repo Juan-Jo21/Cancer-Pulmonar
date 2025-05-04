@@ -3,11 +3,11 @@
 
 En este proyecto se implementa redes neuronales convolucionales (CNN) para clasificar automáticamente imágenes de un subset de datos que contiene 15000 imágenes histopatológicas con 3 clases.
 
-Tejido pulmonar benigno.
+• Tejido pulmonar benigno.
 
-Adenocarcinoma de pulmón.
+• Adenocarcinoma de pulmón.
 
-Carcinoma de células escamosas de pulmón.
+• Carcinoma de células escamosas de pulmón.
 
 Todas las imágenes tienen un tamaño de 768x768 píxeles y están en formato JPEG.
 
@@ -15,8 +15,7 @@ Las imágenes se generaron a partir de una muestra original de fuentes compatibl
 
 750 imágenes originales de tejido pulmonar (250 tejidos benignos, 250 adenocarcinomas y 250 carcinomas de células escamosas).
 
-Estas imágenes se aumentaron a 15000 usando el paquete Augmentor.
-Las 3 clases del subset (cada una con 5000 imágenes)
+Estas imágenes se aumentaron a 15000 usando el paquete Augmentor, quedando la clase del subset cada una con 5000 imágenes.
 
 Dataset:
 
