@@ -24,8 +24,8 @@ Dataset:
 
 Se evaluaron filtros para mejorar características diagnósticas:
 
-## **•** Sobel (énfasis en bordes celulares)
+### **•** Sobel (énfasis en bordes celulares)
 
-## **•** Gaussiano (reducción de ruido)
+### **•** Gaussiano (reducción de ruido)
 
-## **•** Escala de grises (simplificación de texturas)
+### **•** Escala de grises (simplificación de texturas)
